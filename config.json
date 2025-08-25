@@ -1,9 +1,9 @@
 {
-  "bot_token": "8275227341:AAHbGrftmU9k_akw6iWsXXTBYvEp087bYas",
+  "bot_token": "8368354342:AAF_HA0i1Im12B7UM-WtrW60V9urkBuHCF4",
   "channels": [
     {
-      "id": "@somethingtest12",
-      "url": "https://t.me/somethingtest12",
+      "id": "@somethingstoree",
+      "url": "https://t.me/somethingstoree",
       "name": "Основной канал"
     }
   ],
